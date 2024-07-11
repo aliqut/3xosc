@@ -1,0 +1,7 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","J1, J2","2","Conn_01x32_Socket","Connector_PinHeader_2.54mm:PinHeader_1x32_P2.54mm_Vertical",""
+"2","J3, J4, J5, J6, J7, J8, J9, J10, J11, J12","10","AudioJack3","Thonk_AudioJacks:Jack_3.5mm_QingPu_WQP-PJ366ST_Vertical",""
+"3","RV1, RV4, RV5, RV9, RV10, RV14","6","100k","Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",""
+"4","RV2, RV3, RV6, RV7, RV11, RV12, RV13","7","1M","Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",""
+"5","RV8","1","250k","Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical",""
+"6","SW1, SW2","2","SW_SPDT","Thonk_AudioJacks:DWB1-SPDT-ON-ON",""
