@@ -47,7 +47,7 @@ I went for a black solder mask, but you get the option to choose from many diffe
 ### Opening the KiCad projects
 _To view the front panel on KiCad, you need to install the fonts in the `fonts/` folder from this repo, or replace them with your font of choice._
 
-Make sure to add  `libraries/AudioJacks-Main' to your KiCad library directory for the project to load properly.
+Make sure to add  `libraries/AudioJacks-Main` to your KiCad library directory for the project to load properly.
 # Contributing
 Pull requests are the best way to propose changes to the schematics.
 
