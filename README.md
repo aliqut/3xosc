@@ -26,7 +26,7 @@ Controls unique to each oscillator:
   - PWM modulation input, and modulation amount knob 
 
 # Build Guide
-- Download the Gerber files inside the 'gerbers' folder
+- Download the Gerber files from each board's '.gerbers' folder
 - If you want to make any modifications to the schematics, download the schematics, make your modifications, and create new Gerbers
 - Create the BOM file containing the bill of materials
 - Order all the components needed
