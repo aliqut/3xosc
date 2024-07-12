@@ -40,6 +40,8 @@ The module is split into three boards, the main board, the connector board, and 
 The main and connector board are connected via the pin headers on the top and bottom of the PCBs, make sure you orient the pin headers properly before soldering. The front panel is secured onto the connector board using hex nuts.
 
 ### Front Panel
+_To view the front panel on KiCad, you need to install the fonts in the `fonts/` folder from this repo, or replace them with your font of choice._
+
 To get the shiny gold finish for the exposed copper used for text/graphics, make sure you get your PCB manufactured with an ENIG finish. Most PCB manufacturers offer this as an option.
 
 I went for a black solder mask, but you get the option to choose from many different colours when ordering your PCB.
