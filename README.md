@@ -1,5 +1,5 @@
 # 3xOsc
-3xOsc | 3 VCO Eurorack Module
+3xOsc | 20HP VCO Eurorack Module
 
 ![render](/renders/3xosc.png)
 
