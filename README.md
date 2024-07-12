@@ -41,6 +41,7 @@ The main and connector board are connected via the pin headers on the top and bo
 
 ### Front Panel
 To get the shiny gold finish for the exposed copper used for text/graphics, make sure you get your PCB manufactured with an ENIG finish. Most PCB manufacturers offer this as an option.
+
 I went for a black solder mask, but you get the option to choose from many different colours when ordering your PCB.
 
 # Contributing
