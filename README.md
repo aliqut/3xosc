@@ -1,6 +1,8 @@
 # 3xOsc
 3xOsc | 3 VCO Eurorack Module
 
+![render](/renders/3xosc.png)
+
 This is a Eurorack format VCO synth module, based on Moritz Klein's VCO design.
 
 The module was designed using KiCad.
