@@ -434,7 +434,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "3X VCO.kicad_pro",
+    "filename": "MAIN.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -882,7 +882,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "3X VCO.net",
-      "plot": "",
+      "plot": "../../VCOMain.gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "3X VCO.step",

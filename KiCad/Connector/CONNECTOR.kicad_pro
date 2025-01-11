@@ -433,7 +433,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "VCO PANEL.kicad_pro",
+    "filename": "CONNECTOR.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -468,7 +468,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../VCOConnector.gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "VCO PANEL.step",
