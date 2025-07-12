@@ -26613,7 +26613,7 @@
 		(layer "Edge.Cuts")
 		(uuid "9db318c7-b9f2-4b7c-bca1-509b4f2b163e")
 	)
-	(gr_text "3X VCO\n"
+	(gr_text "3xOsc\n"
 		(at 228.5 76 0)
 		(layer "F.SilkS")
 		(uuid "280ddce0-2367-489f-b3ff-fdb63a6a2b74")
