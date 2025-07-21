@@ -65,9 +65,9 @@ Pull requests are the best way to propose changes to the schematics.
 3. If your change directly affects the module's functionality, update the documentation.
 4. Issue pull request
 
-## Any contributions you make will be under the MIT Software License
+## Any contributions you make will be under the GPL Software License
 
-In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project.
+In short, when you submit code changes, your submissions are understood to be under the same GPL license that covers the project.
 
 ## Report issues using Github's Issues tab.
 
